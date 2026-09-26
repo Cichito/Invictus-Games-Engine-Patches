@@ -3,29 +3,29 @@ WINE REGISTRY Version 2
 
 #arch=win64
 
-[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1789805658
-#time=1dd480ede64a406
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1790244888
+#time=1dd4c0d87dca9dc
 @=""
 
-[Control Panel\\Accessibility\\AudioDescription] 1789805655
-#time=1dd480edc4530e6
+[Control Panel\\Accessibility\\AudioDescription] 1790244885
+#time=1dd4c0d85a0f380
 "Locale"=dword:00000000
 "On"="0"
 
-[Control Panel\\Accessibility\\Blind Access] 1789805655
-#time=1dd480edc451fa2
+[Control Panel\\Accessibility\\Blind Access] 1790244885
+#time=1dd4c0d85a0e142
 "On"="0"
 
-[Control Panel\\Accessibility\\Keyboard Preference] 1789805655
-#time=1dd480edc4500da
+[Control Panel\\Accessibility\\Keyboard Preference] 1790244885
+#time=1dd4c0d85a0ca36
 "On"="1"
 
-[Control Panel\\Accessibility\\ShowSounds] 1789805655
-#time=1dd480edc4524ca
+[Control Panel\\Accessibility\\ShowSounds] 1790244885
+#time=1dd4c0d85a0e624
 "On"="0"
 
-[Control Panel\\Colors] 1789805659
-#time=1dd480ede8bea5c
+[Control Panel\\Colors] 1790244889
+#time=1dd4c0d8801ea3a
 "ActiveBorder"="255 255 255"
 "ActiveTitle"="50 150 250"
 "AppWorkSpace"="128 128 128"
@@ -58,8 +58,8 @@ WINE REGISTRY Version 2
 "WindowFrame"="158 158 158"
 "WindowText"="0 0 0"
 
-[Control Panel\\Desktop] 1789805659
-#time=1dd480ede8c08f2
+[Control Panel\\Desktop] 1790244889
+#time=1dd4c0d88020416
 "ActiveWndTrackTimeout"=dword:00000000
 "BlockSendInputResets"="0"
 "CaretWidth"=dword:00000001
@@ -85,8 +85,8 @@ WINE REGISTRY Version 2
 "WheelScrollChars"="3"
 "WheelScrollLines"="3"
 
-[Control Panel\\Desktop\\WindowMetrics] 1789805659
-#time=1dd480ede8c060e
+[Control Panel\\Desktop\\WindowMetrics] 1790244889
+#time=1dd4c0d880201b4
 "BorderWidth"="1"
 "CaptionFont"=hex:0a,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
 00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
@@ -125,8 +125,8 @@ WINE REGISTRY Version 2
 00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
 00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
 
-[Control Panel\\International] 1789805655
-#time=1dd480edc361ff2
+[Control Panel\\International] 1790244885
+#time=1dd4c0d859335c4
 "iCalendarType"="1"
 "iCountry"="1"
 "iCurrDigits"="2"
@@ -169,22 +169,22 @@ WINE REGISTRY Version 2
 "sTimeFormat"="h:mm:ss tt"
 "sYearMonth"="MMMM yyyy"
 
-[Control Panel\\International\\Geo] 1789805655
-#time=1dd480edc362132
+[Control Panel\\International\\Geo] 1790244885
+#time=1dd4c0d859336b4
 "Name"="US"
 "Nation"="244"
 
-[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1789805655
-#time=1dd480edc361070
+[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1790244885
+#time=1dd4c0d85932ade
 "Currencies"="USD"
 
-[Control Panel\\Keyboard] 1789805655
-#time=1dd480edc4502a6
+[Control Panel\\Keyboard] 1790244885
+#time=1dd4c0d85a0cb80
 "KeyboardDelay"="1"
 "KeyboardSpeed"="31"
 
-[Control Panel\\Mouse] 1789805655
-#time=1dd480edc45290c
+[Control Panel\\Mouse] 1790244885
+#time=1dd4c0d85a0eaca
 "ActiveWindowTracking"=dword:00000000
 "DoubleClickHeight"="4"
 "DoubleClickSpeed"="500"
@@ -199,69 +199,69 @@ WINE REGISTRY Version 2
 "SnapToDefaultButton"="0"
 "SwapMouseButtons"="0"
 
-[Control Panel\\Sound] 1789805655
-#time=1dd480edc44d6a0
+[Control Panel\\Sound] 1790244885
+#time=1dd4c0d85a0a0a6
 "Beep"="Yes"
 
-[Environment] 1789805657
-#time=1dd480eddbb1076
+[Environment] 1790244887
+#time=1dd4c0d873033be
 "TEMP"="C:\\users\\steamuser\\AppData\\Local\\Temp"
 "TMP"="C:\\users\\steamuser\\AppData\\Local\\Temp"
 
-[Keyboard Layout\\Preload] 1789805655
-#time=1dd480edc44c5e8
+[Keyboard Layout\\Preload] 1790244885
+#time=1dd4c0d85a08eea
 "1"="00000409"
 
-[Software\\Microsoft\\Internet Explorer\\Main] 1789805658
-#time=1dd480ede5d09ee
+[Software\\Microsoft\\Internet Explorer\\Main] 1790244888
+#time=1dd4c0d87d5ef48
 "Search Page"="https://www.google.com"
 "Start Page"="https://www.winehq.org"
 
-[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1789805657
-#time=1dd480edd5139b2
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1790244887
+#time=1dd4c0d86c6ab4c
 
-[Software\\Microsoft\\Internet Explorer\\Settings] 1789805658
-#time=1dd480ede5d0cd2
+[Software\\Microsoft\\Internet Explorer\\Settings] 1790244888
+#time=1dd4c0d87d5f236
 "Text Color"="0,0,0"
 
-[Software\\Microsoft\\Protected Storage System Provider] 1789805658
-#time=1dd480ede64a636
+[Software\\Microsoft\\Protected Storage System Provider] 1790244888
+#time=1dd4c0d87dcab4e
 
-[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1789805662
-#time=1dd480ee0740002
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1790244892
+#time=1dd4c0d89c48b66
 
-[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1789805662
-#time=1dd480ee074023c
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1790244892
+#time=1dd4c0d89c48d96
 
-[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1789805662
-#time=1dd480ee074044e
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1790244892
+#time=1dd4c0d89c48fb2
 
-[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1789805662
-#time=1dd480ee0741358
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1790244892
+#time=1dd4c0d89c49fac
 
-[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1789805662
-#time=1dd480ee074156a
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1790244892
+#time=1dd4c0d89c4a1c8
 
-[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1789805662
-#time=1dd480ee0741772
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1790244892
+#time=1dd4c0d89c4a3ee
 
-[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1789805662
-#time=1dd480ee0742672
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1790244892
+#time=1dd4c0d89c4b3b6
 
-[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1789805662
-#time=1dd480ee0742884
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1790244892
+#time=1dd4c0d89c4b5d2
 
-[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1789805662
-#time=1dd480ee0742a8c
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1790244892
+#time=1dd4c0d89c4b7ee
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1789805658
-#time=1dd480ede60b382
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1790244888
+#time=1dd4c0d87d99aee
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts] 1789805658
-#time=1dd480ede60b5d0
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts] 1790244888
+#time=1dd4c0d87d99d32
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1789805657
-#time=1dd480eddb89e36
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1790244887
+#time=1dd4c0d872dc5c0
 "Administrative Tools"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
 "AppData"="C:\\users\\steamuser\\AppData\\Roaming"
 "Cache"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\INetCache"
@@ -290,8 +290,8 @@ WINE REGISTRY Version 2
 "{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\steamuser\\AppData\\LocalLow"
 "{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\steamuser\\Links"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1789805657
-#time=1dd480eddb89ef4
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1790244887
+#time=1dd4c0d872dc67e
 "__WineVistaPaths"=dword:00000001
 "Administrative Tools"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
 "AppData"=str(2):"%USERPROFILE%\\AppData\\Roaming"
@@ -321,28 +321,28 @@ WINE REGISTRY Version 2
 "{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
 "{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell] 1789805658
-#time=1dd480ede60ba30
+[Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell] 1790244888
+#time=1dd4c0d87d9a1d8
 "TabletMode"=dword:00000000
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1789805662
-#time=1dd480ee08adfc0
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1790244892
+#time=1dd4c0d89ddebe2
 "ProxyEnable"=dword:00000000
 "User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1789805658
-#time=1dd480ede38a7f2
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1790244888
+#time=1dd4c0d87b19968
 @=""
 "IntranetName"=dword:00000001
 "ProxyByPass"=dword:00000001
 "UNCAsIntranet"=dword:00000001
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1789805658
-#time=1dd480ede38a270
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1790244888
+#time=1dd4c0d87b193dc
 @=""
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1789805658
-#time=1dd480ede389bcc
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1790244888
+#time=1dd4c0d87b18d42
 @=""
 "@ivt"=dword:00000001
 "file"=dword:00000003
@@ -350,16 +350,16 @@ WINE REGISTRY Version 2
 "http"=dword:00000003
 "https"=dword:00000003
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1789805658
-#time=1dd480ede38a90a
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1790244888
+#time=1dd4c0d87b19a8a
 @=""
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1789805658
-#time=1dd480ede3dae96
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1790244888
+#time=1dd4c0d87b69e4a
 @=""
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1789805658
-#time=1dd480ede39ec0c
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1790244888
+#time=1dd4c0d87b2d7b0
 @=""
 "1001"=dword:00000000
 "1004"=dword:00000000
@@ -397,8 +397,8 @@ WINE REGISTRY Version 2
 "Flags"=dword:00000021
 "Icon"="explorer.exe#0100"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1789805658
-#time=1dd480ede3b29d2
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1790244888
+#time=1dd4c0d87b4197c
 @=""
 "1001"=dword:00000001
 "1004"=dword:00000003
@@ -438,8 +438,8 @@ WINE REGISTRY Version 2
 "MinLevel"=dword:00010000
 "RecommendedLevel"=dword:00010500
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1789805658
-#time=1dd480ede3c6aae
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1790244888
+#time=1dd4c0d87b556de
 @=""
 "1001"=dword:00000000
 "1004"=dword:00000001
@@ -479,8 +479,8 @@ WINE REGISTRY Version 2
 "MinLevel"=dword:00010000
 "RecommendedLevel"=dword:00010000
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1789805658
-#time=1dd480ede3da7fc
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1790244888
+#time=1dd4c0d87b697b0
 @=""
 "1001"=dword:00000001
 "1004"=dword:00000003
@@ -520,8 +520,8 @@ WINE REGISTRY Version 2
 "MinLevel"=dword:00011000
 "RecommendedLevel"=dword:00011000
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1789805658
-#time=1dd480ede3ee91e
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1790244888
+#time=1dd4c0d87b7d936
 @=""
 "1001"=dword:00000003
 "1004"=dword:00000003
@@ -561,11 +561,11 @@ WINE REGISTRY Version 2
 "MinLevel"=dword:00012000
 "RecommendedLevel"=dword:00012000
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1789805658
-#time=1dd480ede60bc60
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1790244888
+#time=1dd4c0d87d9a412
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager] 1789805659
-#time=1dd480ede8b2bb2
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager] 1790244889
+#time=1dd4c0d8801363a
 "ColorName"="Blue"
 "DllName"="C:\\windows\\resources\\themes\\light\\light.msstyles"
 "FlatMenu"=dword:00000000
@@ -599,8 +599,8 @@ ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,00,\
 "SizeName"="NormalSize"
 "ThemeActive"="1"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager\\Control Panel\\Colors] 1789805659
-#time=1dd480ede8b207c
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager\\Control Panel\\Colors] 1790244889
+#time=1dd4c0d88012d70
 "ActiveBorder"="212 208 200"
 "ActiveTitle"="10 36 106"
 "AppWorkSpace"="128 128 128"
@@ -633,166 +633,166 @@ ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,00,\
 "WindowFrame"="0 0 0"
 "WindowText"="0 0 0"
 
-[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice] 1789805658
-#time=1dd480ede64fa00
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice] 1790244888
+#time=1dd4c0d87dcf9e6
 "ProgId"="ftp"
 
-[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\http\\UserChoice] 1789805658
-#time=1dd480ede650dd8
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\http\\UserChoice] 1790244888
+#time=1dd4c0d87dd0dd2
 "ProgId"="http"
 
-[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\https\\UserChoice] 1789805658
-#time=1dd480ede6521a6
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\https\\UserChoice] 1790244888
+#time=1dd4c0d87dd21a0
 "ProgId"="https"
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1789805658
-#time=1dd480ede60c804
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1790244888
+#time=1dd4c0d87d9afd4
 
-[Software\\Valve\\Steam] 1789805659
-#time=1dd480ede8eaf3a
+[Software\\Valve\\Steam] 1790244889
+#time=1dd4c0d8804667a
 "SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Valve\\Steam\\ActiveProcess] 1789805659
-#time=1dd480ede8ebe6c
+[Software\\Valve\\Steam\\ActiveProcess] 1790244889
+#time=1dd4c0d8804723c
 "PID"=dword:0000fffe
 "SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
 "SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
 "SteamPath"="C:\\Program Files (x86)\\Steam"
 
-[Software\\Wine\\AppDefaults\\ActOfWar.exe] 1789805658
-#time=1dd480ede686a1e
+[Software\\Wine\\AppDefaults\\ActOfWar.exe] 1790244888
+#time=1dd4c0d87e069fa
 "Version"="winxp"
 
-[Software\\Wine\\AppDefaults\\Avengers.exe\\DllOverrides] 1789805658
-#time=1dd480ede67bdee
+[Software\\Wine\\AppDefaults\\Avengers.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87dfbe60
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\BlackOps3.exe\\DllOverrides] 1789805658
-#time=1dd480ede675e26
+[Software\\Wine\\AppDefaults\\BlackOps3.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df5eca
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\DarkOmen.exe] 1789805658
-#time=1dd480ede686d5c
+[Software\\Wine\\AppDefaults\\DarkOmen.exe] 1790244888
+#time=1dd4c0d87e06d38
 "Version"="winxp"
 
-[Software\\Wine\\AppDefaults\\DIRT5.exe\\DllOverrides] 1789805658
-#time=1dd480ede677ca8
+[Software\\Wine\\AppDefaults\\DIRT5.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df7dd8
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\FarCry5.exe\\DllOverrides] 1789805658
-#time=1dd480ede682b44
+[Software\\Wine\\AppDefaults\\FarCry5.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87e02c1a
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\FarCryNewDawn.exe\\DllOverrides] 1789805658
-#time=1dd480ede681da2
+[Software\\Wine\\AppDefaults\\FarCryNewDawn.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87e01e3c
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\ffxvi.exe\\DllOverrides] 1789805658
-#time=1dd480ede680268
+[Software\\Wine\\AppDefaults\\ffxvi.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87e002f8
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\ffxvi_demo.exe\\DllOverrides] 1789805658
-#time=1dd480ede68100a
+[Software\\Wine\\AppDefaults\\ffxvi_demo.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87e01090
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\gotg.exe\\DllOverrides] 1789805658
-#time=1dd480ede679bd4
+[Software\\Wine\\AppDefaults\\gotg.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df9c0a
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\GW2.Main_Win64_Retail.exe\\DllOverrides] 1789805658
-#time=1dd480ede67d946
+[Software\\Wine\\AppDefaults\\GW2.Main_Win64_Retail.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87dfd9c2
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\h1_mp64_ship.exe\\DllOverrides] 1789805658
-#time=1dd480ede6742e2
+[Software\\Wine\\AppDefaults\\h1_mp64_ship.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df4390
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\h1_sp64_ship.exe\\DllOverrides] 1789805658
-#time=1dd480ede673540
+[Software\\Wine\\AppDefaults\\h1_sp64_ship.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df35ee
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\Imperiums.exe] 1789805658
-#time=1dd480ede67b006
+[Software\\Wine\\AppDefaults\\Imperiums.exe] 1790244888
+#time=1dd4c0d87dfb032
 "Version"="win11"
 
-[Software\\Wine\\AppDefaults\\iw7_ship.exe\\DllOverrides] 1789805658
-#time=1dd480ede675084
+[Software\\Wine\\AppDefaults\\iw7_ship.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df511e
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\Maine-Win64-Shipping.exe\\DllOverrides] 1789805658
-#time=1dd480ede68921e
+[Software\\Wine\\AppDefaults\\Maine-Win64-Shipping.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87e09fe2
 
-[Software\\Wine\\AppDefaults\\msedgewebview2.exe] 1789805658
-#time=1dd480ede67acbe
+[Software\\Wine\\AppDefaults\\msedgewebview2.exe] 1790244888
+#time=1dd4c0d87dfacea
 "Version"="win7"
 
-[Software\\Wine\\AppDefaults\\NFS16.exe\\DllOverrides] 1789805658
-#time=1dd480ede676bd2
+[Software\\Wine\\AppDefaults\\NFS16.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df6c6c
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1789805658
-#time=1dd480ede678dba
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1790244888
+#time=1dd4c0d87df8e7c
 
-[Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1789805658
-#time=1dd480ede688468
+[Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87e09236
 
-[Software\\Wine\\AppDefaults\\rayne1.exe\\DllOverrides] 1789805658
-#time=1dd480ede683a08
+[Software\\Wine\\AppDefaults\\rayne1.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87e039bc
 "d3d8"="native"
 
-[Software\\Wine\\AppDefaults\\rayne2.exe\\DllOverrides] 1789805658
-#time=1dd480ede6847c8
+[Software\\Wine\\AppDefaults\\rayne2.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87e0475e
 "d3d8"="native"
 
-[Software\\Wine\\AppDefaults\\RDR2.exe\\DllOverrides] 1789805658
-#time=1dd480ede686690
+[Software\\Wine\\AppDefaults\\RDR2.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87e066bc
 "vulkan-1"="native"
 
-[Software\\Wine\\AppDefaults\\RelicCardinal.exe\\DllOverrides] 1789805658
-#time=1dd480ede67a976
+[Software\\Wine\\AppDefaults\\RelicCardinal.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87dfa9b6
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\RiftApart.exe\\DllOverrides] 1789805658
-#time=1dd480ede67f494
+[Software\\Wine\\AppDefaults\\RiftApart.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87dff556
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\s2_mp64_ship.exe\\DllOverrides] 1789805658
-#time=1dd480ede6727b2
+[Software\\Wine\\AppDefaults\\s2_mp64_ship.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df284c
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\s2_sp64_ship.exe\\DllOverrides] 1789805658
-#time=1dd480ede671a1a
+[Software\\Wine\\AppDefaults\\s2_sp64_ship.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df1a1e
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\ShadowOfWar.exe\\DllOverrides] 1789805658
-#time=1dd480ede676f10
+[Software\\Wine\\AppDefaults\\ShadowOfWar.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df6faa
 "amd_ags_x64"="disabled"
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\Spider-Man.exe\\DllOverrides] 1789805658
-#time=1dd480ede67e6f2
+[Software\\Wine\\AppDefaults\\Spider-Man.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87dfe778
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\starwarssquadrons.exe\\DllOverrides] 1789805658
-#time=1dd480ede67cb9a
+[Software\\Wine\\AppDefaults\\starwarssquadrons.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87dfcc0c
 "atiadlxx"="builtin"
 
-[Software\\Wine\\AppDefaults\\TDUSC.exe\\DllOverrides] 1789805658
-#time=1dd480ede66fed6
+[Software\\Wine\\AppDefaults\\TDUSC.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87defee4
 "xinput1_3"="native,builtin"
 
-[Software\\Wine\\AppDefaults\\WRCG.exe\\DllOverrides] 1789805658
-#time=1dd480ede670c6e
+[Software\\Wine\\AppDefaults\\WRCG.exe\\DllOverrides] 1790244888
+#time=1dd4c0d87df0c7c
 "xinput1_3"="native,builtin"
 
-[Software\\Wine\\Debug] 1789805658
-#time=1dd480ede61ea68
+[Software\\Wine\\Debug] 1790244888
+#time=1dd4c0d87dad5c6
 "RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
 "RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
 
-[Software\\Wine\\DllOverrides] 1789805658
-#time=1dd480ede66a45e
+[Software\\Wine\\DllOverrides] 1790244888
+#time=1dd4c0d87dea4c6
 "api-ms-win-crt-conio-l1-1-0"="native,builtin"
 "api-ms-win-crt-heap-l1-1-0"="native,builtin"
 "api-ms-win-crt-locale-l1-1-0"="native,builtin"
@@ -828,27 +828,27 @@ ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,00,\
 "vcruntime140"="native,builtin"
 "vcruntime140_1"="native,builtin"
 
-[Software\\Wine\\Fonts] 1789805658
-#time=1dd480ede62fb74
+[Software\\Wine\\Fonts] 1790244888
+#time=1dd4c0d87db8c1e
 "Codepages"="1252,437"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1789805655
-#time=1dd480edc449492
+[Software\\Wine\\Fonts\\External Fonts] 1790244885
+#time=1dd4c0d85a05ec0
 
-[Software\\Wine\\Fonts\\Replacements] 1789805658
-#time=1dd480ede630628
+[Software\\Wine\\Fonts\\Replacements] 1790244888
+#time=1dd4c0d87db9362
 "Palatino Linotype"="Times New Roman"
 "Segoe UI"="Times New Roman"
 "Segoe UI Semibold"="Times New Roman"
 "Verdana"="Times New Roman"
 
-[Software\\Wine\\WineDbg] 1789805658
-#time=1dd480ede61eec8
+[Software\\Wine\\WineDbg] 1790244888
+#time=1dd4c0d87dada4e
 "ShowCrashDialog"=dword:00000000
 
-[Volatile Environment] 1789805662
-#time=1dd480ee0852b02
+[Volatile Environment] 1790244892
+#time=1dd4c0d89d892f0
 "APPDATA"="C:\\users\\steamuser\\AppData\\Roaming"
 "CLIENTNAME"="Console"
 "HOMEDRIVE"="C:"

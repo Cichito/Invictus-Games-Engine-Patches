@@ -1,7 +1,7 @@
 {
     "empty_dirs": [
         "files/lib/cmake/kaldi",
-        "files/lib/i386-linux-gnu/cmake",
+        "files/lib/i386-linux-gnu/cmake/openxr",
         "files/lib/i386-linux-gnu/fst",
         "files/lib/i386-linux-gnu/glslang",
         "files/lib/i386-linux-gnu/graphene-1.0/include",
@@ -69,7 +69,7 @@
         "files/share/default_pfx/drive_c/windows/tasks",
         "files/share/default_pfx/drive_c/windows/temp"
     ],
-    "id": "1866328832",
+    "id": "3222778989",
     "no_write_paths": [
         "files/lib/wine/dxvk/i386-windows/d3d10core.dll",
         "files/lib/wine/dxvk/i386-windows/d3d11.dll",
@@ -116,6 +116,7 @@
         "files/lib/wine/i386-unix/winebus.so",
         "files/lib/wine/i386-unix/winedmo.so",
         "files/lib/wine/i386-unix/winegstreamer.so",
+        "files/lib/wine/i386-unix/wineopenxr.so",
         "files/lib/wine/i386-unix/wineps.so",
         "files/lib/wine/i386-unix/winepulse.so",
         "files/lib/wine/i386-unix/wineusb.so",
@@ -853,6 +854,7 @@
         "files/lib/wine/i386-windows/winemenubuilder.exe",
         "files/lib/wine/i386-windows/winemine.exe",
         "files/lib/wine/i386-windows/winemsibuilder.exe",
+        "files/lib/wine/i386-windows/wineopenxr.dll",
         "files/lib/wine/i386-windows/winepath.exe",
         "files/lib/wine/i386-windows/wineps.drv",
         "files/lib/wine/i386-windows/wineps16.drv16",
