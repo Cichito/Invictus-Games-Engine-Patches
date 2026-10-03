@@ -1421,7 +1421,8 @@ def default_compat_config():
                 "2621010", #Simulakros Demo
                 "368500", #Assassin's Creed Syndicate
                 "1524630", #KeepUp Survival
-                "1233570",
+                "1233570", #Mirror's Edge Catalyst
+                "292030", #The Witcher 3: Wild Hunt - Remastered
                 ]:
             try:
                 with open('/proc/modules') as f:
@@ -1883,6 +1884,7 @@ class Session:
                 "1051200", #Trover Saves the Universe
                 "285190", #Warhammer 40,000: Dawn of War III
                 "1133320", #Westworld Awakening
+                "522020", #Blue Effect VR
                 ]:
             self.env["OPENSSL_ia32cap"] = "~0x20000000"
 
@@ -2119,6 +2121,7 @@ class Session:
         append_to_env_str(self.env, "WINEDLLOVERRIDES", s, ";")
 
         if platform.machine() == 'aarch64':
+            self.env.setdefault("FEX_DISKCACHE", "1")
             if os.environ.get("SteamGameId", 0) == "1167630": # Teardown
                 # https://github.com/microsoft/mimalloc/issues/958
                 self.env["MIMALLOC_DISABLE_REDIRECT"] = "1"
