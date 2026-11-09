@@ -1,0 +1,22 @@
+Time=
+
+CRC Extreme Debug build 909 (Sep 23 2018 13:38:40), distr. v1.2.5 TB
+Adapter name =
+
+Texture formats:
+	RGB16 = 23
+	RGBA16 = 26
+	RGB32 = 22
+	RGBA32 = 21
+	PAL16 = 21
+	PAL256 = 21
+	LQ = DXT1
+	LQA = DXT5
+	BUMPMAP = 60
+	RENDERTARGET = 21
+	ZBUFFER = 75
+	RENDERTARGET16 = 25
+	ZBUFFER16 = 80
+	LQA2 = DXT3
+	RENDERDEPTH_Z = 77
+	RENDERDEPTH_F = 11
