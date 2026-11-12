@@ -126,8 +126,7 @@ if (class_name == "BmLauncher.ERG_BitmapLabel") {
 if (class_name == "BmLauncher.FormControls") {
     recurse_method: "win32";
     valid_target: false;
-    supported: not child_matches(not supported) and
-        child_matches(winforms_control_name == "buttonGadgets"); // Filters out Arkham City GOTY launcher, which has broken scrollbars
+    supported: not child_matches(not supported);
 }
 
 // APPLICATION: BattlEye installer
@@ -475,7 +474,7 @@ if (process_name == "FFX&X-2_LAUNCHER" and winforms_control_type == "GameLaunche
 }
 
 // APPLICATION: Final Fantasy XI launcher
-if (win32_process_name == "FFXiPadConfig") {
+if (win32_process_name == "FFXiPadConfig" and (child_matches(check_box or radio_button or sunken or bitmap))) {
     application_supports_gamepad: true;
 }
 
@@ -665,7 +664,7 @@ if (process_name == "Fusion") {
 
 // APPLICATION: Lara Croft and the Temple of Osiris Launcher
 
-if (class_name == "NixxesLC2" and win32_gui_active and win32_gui_focus) {
+if (class_name == "NixxesLC2" and win32_gui_active and win32_gui_focus and not clipchildren) {
     in_menu_navigation: true;
     menu_up_action: send_key.up;
     menu_down_action: send_key.down;
@@ -721,11 +720,7 @@ dialog (parent.is_root and root.child_matches(class_name == "GameNxApp").pid == 
     application_supports_gamepad: true;
 }
 
-if (class_name == "NxApp" and process_name == "DXMD") {
-    application_supports_gamepad: true;
-}
-
-if (class_name.endswith("NxApp") and class_name != "GameNxApp" and win32_gui_active and win32_gui_focus) {
+if (class_name.endswith("NxApp") and class_name != "GameNxApp" and win32_gui_active and win32_gui_focus and not clipchildren) {
     in_menu_navigation: true;
     menu_up_action: send_key.up;
     menu_down_action: send_key.down;
