@@ -1444,6 +1444,7 @@ def default_compat_config():
                 "1026680", #FINAL FANTASY VIII - REMASTERED
                 "3513350", #Wuthering Waves
                 "3837340", #FINAL FANTASY VII
+                "3285880", #MONOMOOON
                 ]:
             ret.add("noxalia")
 
@@ -1588,6 +1589,12 @@ class Session:
                     "4005300",
                     ]:
                 self.env["PROTON_USE_WOW64"] = "1"
+
+        if "WINE_IGNORE_STARTUP_SHOW_WINDOW" not in self.env and "SteamGameId" in self.env:
+            if self.env["SteamGameId"] in [
+                    "1361210",
+                    ]:
+                self.env["WINE_IGNORE_STARTUP_SHOW_WINDOW"] = "1"
 
         self.env.pop("WINEARCH", "")
         if "PROTON_USE_WOW64" in self.env and self.env["PROTON_USE_WOW64"] == "1" and platform.machine() == "x86_64":
